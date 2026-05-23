@@ -1,6 +1,6 @@
 Nicholas Atkins
 
-ML researcher and student at Tennessee Tech's MInDS Center working on NIH-funded clinical AI for trauma triage, where I build, tune, and evaluate ML models on large, imbalanced clinical datasets with an emphasis on explainability and clinical trust. Interested in healthcare risk prediction and explainable ML (SHAP, LIME, EBMs).
+ML researcher and student at Tennessee Tech's MInDS Center working on NIH-funded clinical AI for trauma triage, where I build, tune, and evaluate ML models on large, imbalanced clinical datasets with an emphasis on explainability and clinical trust. Interested in risk prediction and explainable ML (SHAP, LIME, EBMs).
 
 Most of my active work lives in private repositories for research data confidentiality or collaboration agreements.
 Two papers from this research have been accepted to FLAIRS 2026.
